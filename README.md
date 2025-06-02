@@ -59,8 +59,8 @@
 <br>
 <div align="center">
     <img width="390" src="https://github-readme-stats.vercel.app/api/top-langs?username=descifrador93&show_icons=true&theme=dark&locale=en&layout=compact" alt="descifrador93" />
-    <img width="390" src="https://github-readme-stats.vercel.app/api?username=descifrador93&show_icons=true&theme=dark&locale=en" alt="descifrador93" />
-    <img width="325" src="https://github-readme-streak-stats.herokuapp.com/?user=descifrador93&theme=dark" alt="descifrador93" />
+    <img width="390" src="https://github-readme-stats.vercel.app/api?username=akmalkamaruddin&show_icons=true&theme=dark&locale=en" alt="akmalkamaruddin" />
+    <img width="325" src="https://github-readme-streak-stats.herokuapp.com/?user=akmalkamaruddin&theme=dark" alt="akmalkamaruddin" />
 </div>
 <hr/>
 
