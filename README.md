@@ -235,18 +235,18 @@
 </html>
 
 
-<!DOCTYPE html
-<html>
+<!DOCTYPE html>
+<html lang="eng">
 <meta name="viewport" content="width=device-width initial-scale=1 minimum-scale=1.0 maximum-scale=1.0"/>
 
 <head>
-<title>Speedtest Custom by Ookla</title>
+<title>Copyright by Hi Tech Eng Solution Sdn Bhd</title>
 </head>
 
 <header>
 <h3>
 
-<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=20&center=true&vCenter=true&width=400&height=45&duration=4000&lines=Your Internet Speed;+by SpeedTest;"/>
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=30&center=true&vCenter=true&width=400&height=45&duration=4000&lines=©️ Hi Tech Eng Solution Sdn Bhd ;+admin@htesb.com;"/>
 
 </h3>
 
@@ -255,8 +255,8 @@
 <body style="width: 100%; height: 100%;">
 <iframe width="100%" height="600px" frameborder="0" src="https://htesb.speedtestcustom.com">
 </iframe>
-<!-- Start of Globel Code -->
+<!-- Start of Global Code -->
 <script type="text/javascript" src="https://counter.websiteout.com/js/17/5/499/0"></script>
 </body>
 
-</html>>
+</html>
