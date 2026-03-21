@@ -1,11 +1,12 @@
+    title: Hi Tech Eng Solution Sdn Bhd | Engineering Excellence
+    
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    title: Hi Tech Eng Solution Sdn Bhd | Engineering Excellence
+
+ 
     <style>
-        root {
+       * root {
             --primary: #004a99;
             --dark: #2d3436;
             --light: #f4f7f6;
