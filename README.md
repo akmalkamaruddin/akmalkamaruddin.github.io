@@ -188,6 +188,10 @@
     <footer>
         <p>© 2026 Hi Tech Eng Solution Sdn Bhd. All Rights Reserved.</p>
         <p>Email: admin@htesb.com</p>
+ 
+<!-- Start of Global Code -->
+<script type="text/javascript" src="https://counter.websiteout.com/js/17/5/499/0">
+</script>
     </footer>
 
     <script>
@@ -254,10 +258,9 @@
 </header>
 
 <body style="width: 100%; height: 100%;">
-<iframe width="100%" height="600px" frameborder="0" src="https://htesb.speedtestcustom.com">
+<iframe width="100%" height="720px" frameborder="0" src="https://htesb.speedtestcustom.com">
 </iframe>
-<!-- Start of Global Code -->
-<script type="text/javascript" src="https://counter.websiteout.com/js/17/5/499/0"></script>
+
 </body>
 
 </html>-->
