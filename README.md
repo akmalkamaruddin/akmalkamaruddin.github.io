@@ -188,13 +188,12 @@
     <footer>
         <p>© 2026 Hi Tech Eng Solution Sdn Bhd. All Rights Reserved.</p>
         <p>Email: admin@htesb.com</p>
+ <\footer>
  
 <!-- Start of Global Code -->
-<script type="text/javascript" src="https://counter.websiteout.com/js/17/5/499/0">
-</script>
-    </footer>
+<script type="text/javascript" src="https://counter.websiteout.com/js/17/5/499/0"><\script>
 
-    <script>
+<script>
         // Lightbox Logic
         const lightbox = document.getElementById('lightbox');
         const lightboxImg = document.getElementById('lightbox-img');
@@ -235,7 +234,7 @@
             const mailtoLink = `mailto:admin@htesb.com?subject=${encodeURIComponent(document.getElementById('subject').value)}&body=${encodeURIComponent(document.getElementById('message').value)}`;
             window.location.href = mailtoLink;
         };
-    </script>
+</script>
 </body>
 </html>
 
