@@ -14,24 +14,15 @@
             --accent: #0984e3;
         }
 
-        * { margin: 0; padding: 0; box-sizing: border-box; font-family: 'Segoe UI', sans-serif; }
-        html { scroll-behavior: smooth; }
-        body { background: var(--light); color: var(--dark); line-height: 1.6; }
+<!--<div><img align="center" src="https://visitor-badge.laobi.icu/badge?page_id=DesciFradoR93.DesciFradoR93" /></div>-->
 
-        /* Navigation */
-        nav {
-            display: flex; justify-content: space-between; align-items: center;
-            padding: 1rem 5%; background: var(--white);
-            position: sticky; top: 0; z-index: 1000; box-shadow: 0 2px 10px rgba(0,0,0,0.1);
-        }
-        .logo { font-weight: bold; color: var(--primary); text-transform: uppercase; font-size: 1rem; }
-        .nav-links { list-style: none; display: flex; }
-        .nav-links li { margin-left: 20px; }
-        .nav-links a { text-decoration: none; color: var(--dark); font-weight: 500; transition: 0.3s; }
-        .nav-links a:hover { color: var(--primary); }
+<div align="center">
+<img align="center" src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e">
+</div>
 
-        .hamburger { display: none; cursor: pointer; flex-direction: column; gap: 5px; }
-        .hamburger span { width: 25px; height: 3px; background: var(--primary); transition: 0.3s; }
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=AkmalKamaruddin;+2025;" />
+</h1>
 
         /* Hero */
         .hero {
@@ -239,22 +230,35 @@
 </html>
 
 <!--
-<!DOCTYPE html>
-<html lang="eng">
-<meta name="viewport" content="width=device-width initial-scale=1 minimum-scale=1.0 maximum-scale=1.0"/>
+<h2 align="center">🪩 Discord Account 🪩</h2>
+<br/>
+<div align="center"><img src="https://cdn.discordapp.com/attachments/1054645111834812467/1180786291718242334/titled.png?ex=657eafed&is=656c3aed&hm=3813459b81bd90d7bc0c36311235dc85b487e274dea852d11094e903960d2137&" alt="Discord Account"></div>
+-->
 
-<head>
-<title>Copyright by Hi Tech Eng Solution Sdn Bhd</title>
-</head>
+<h2 align="center"> 🏆 Trophies 🏆 </h2>
 
-<header>
-<h3>
+<br/>
 
-<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=30&center=true&vCenter=true&width=400&height=45&duration=4000&lines=©️ Hi Tech Eng Solution Sdn Bhd ;+admin@htesb.com;"/>
+<p align="center"> 
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+<img src="https://github-profile-trophy.vercel.app/?username=akmalkamaruddin" alt="myordinaryworld" />
+</a> 
+</p>
 
-</h3>
+<!--
+<h3 align="center">👋 Connect with me 👋</h3>
+<p align="center">
+<a href="https://instagram.com/cursedclient2563" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="cursedclient2563" height="30" width="40" /></a>
+</p>
+-->
 
-</header>
+<hr/>
+<h2 align="center">😎 Tect Stack 😎</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=bootstrap,html,css,vscode,github,git" />
+    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,flask,java" /><br>
+</div>
 
 <body style="width: 100%; height: 100%;">
 <iframe width="100%" height="720px" frameborder="0" src="https://htesb.speedtestcustom.com">
