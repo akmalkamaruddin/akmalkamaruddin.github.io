@@ -184,22 +184,7 @@
             </form>
         </div>
     </section>
-
-    <footer>
-        <p>© 2026 Hi Tech Eng Solution Sdn Bhd. All Rights Reserved.</p>
-        <p>Email: admin@htesb.com</p>
- 
- 
-<!-- Start of Global Code -->
-
-<script
-type="text/javascript" src="https://counter.websiteout.com/js/17/5/499/0">
-
-
-</footer>
-    
-</body>
-</html><script>
+<script>
         // Lightbox Logic
         const lightbox = document.getElementById('lightbox');
         const lightboxImg = document.getElementById('lightbox-img');
@@ -241,6 +226,22 @@ type="text/javascript" src="https://counter.websiteout.com/js/17/5/499/0">
             window.location.href = mailtoLink;
         };
 </script>
+
+    <footer>
+    <script
+type="text/javascript" src="https://counter.websiteout.com/js/17/5/499/0">
+        <p>© 2026 Hi Tech Eng Solution Sdn Bhd. All Rights Reserved.</p>
+        <p>Email: admin@htesb.com</p>
+ 
+ 
+<!-- Start of Global Code -->
+
+
+
+</footer>
+    
+</body>
+</html>
 
 <!--
 <!DOCTYPE html>
