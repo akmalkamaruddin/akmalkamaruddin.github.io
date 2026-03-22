@@ -192,11 +192,14 @@
  
 <!-- Start of Global Code -->
 
-<script>
-<type="text/javascript" src="https://counter.websiteout.com/js/17/5/499/0">
-</script>
+<script
+type="text/javascript" src="https://counter.websiteout.com/js/17/5/499/0">
 
-<script>
+
+</footer>
+    
+</body>
+</html><script>
         // Lightbox Logic
         const lightbox = document.getElementById('lightbox');
         const lightboxImg = document.getElementById('lightbox-img');
@@ -238,9 +241,6 @@
             window.location.href = mailtoLink;
         };
 </script>
-</footer>
-</body>
-</html>
 
 <!--
 <!DOCTYPE html>
