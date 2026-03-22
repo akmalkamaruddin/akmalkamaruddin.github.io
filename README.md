@@ -188,10 +188,10 @@
     <footer>
         <p>© 2026 Hi Tech Eng Solution Sdn Bhd. All Rights Reserved.</p>
         <p>Email: admin@htesb.com</p>
- <\footer>
+ </footer>
  
 <!-- Start of Global Code -->
-<script type="text/javascript" src="https://counter.websiteout.com/js/17/5/499/0"><\script>
+<script type="text/javascript" src="https://counter.websiteout.com/js/17/5/499/0"></script>
 
 <script>
         // Lightbox Logic
