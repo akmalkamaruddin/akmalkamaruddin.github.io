@@ -227,11 +227,11 @@
         };
 
 
-    <footer>
-    <script type="text/javascript"> src="https://counter.websiteout.com/js/17/5/499/0"></script>
+<footer>
         <p>© 2026 Hi Tech Eng Solution Sdn Bhd. All Rights Reserved.</p>
         <p>Email: admin@htesb.com</p>
- 
+     <script type="text/javascript"> src="https://counter.websiteout.com/js/17/5/499/0">
+    </script>
 </footer>
     
 </body>
