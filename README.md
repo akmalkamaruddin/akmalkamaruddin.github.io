@@ -191,7 +191,10 @@
  
  
 <!-- Start of Global Code -->
-<script type="text/javascript" src="https://counter.websiteout.com/js/17/5/499/0"></script>
+
+<script>
+<type="text/javascript" src="https://counter.websiteout.com/js/17/5/499/0">
+</script>
 
 <script>
         // Lightbox Logic
